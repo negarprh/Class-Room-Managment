@@ -29,7 +29,7 @@ A **Java-based console application** designed to simplify classroom management f
 ### **Example Screenshot**  
 ![Classroom Management System](website.png)  
 
-> *Above: A sample interaction showcasing student enrollment and menu navigation.*
+> *A sample interaction showcasing student enrollment and menu navigation.*
 
 ---
 
